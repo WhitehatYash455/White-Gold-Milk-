@@ -1,0 +1,134 @@
+.ab{
+    background: linear-gradient(to right, hsl(26, 43%, 34%), #c47a3c);
+    color: white;
+    text-align: center;
+       padding: 40px;
+   
+
+}
+.ac{
+    background-color:rgb(113, 111, 111);
+    color:white;
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    
+
+}
+.ww{
+    text-align: center;
+    background-color: rgb(237, 228, 228);
+    text-decoration: none;
+    font-size: 18px;
+    text-align: center;
+    padding: 40px;
+    margin-top: 40px;
+    box-shadow: 7px 7px 7px black;
+}
+
+.we{
+    text-align: center;
+    background-color: rgb(237, 228, 228);
+    text-decoration: none;
+    font-size: 18px;
+    text-align: center;
+    padding: 40px;
+    margin-top: 40px;
+     box-shadow: 7px 7px 7px black;
+
+}
+.ll{
+    list-style-position: inside ;
+    align-items: center;
+   
+}
+
+.oo{
+    list-style-position: inside ;
+}
+
+/*body*/
+.an{
+     
+
+}
+
+.xx{
+    text-align: center;
+    background-color: rgb(238, 230, 230);
+    text-decoration: none;
+    font-size: 18px;
+    text-align: center;
+    padding: 40px;
+    margin-top: 40px;
+     box-shadow: 7px 7px 7px black;
+}
+
+.ii{
+    
+        background: #ffffff;
+    padding: 20px;
+    border: 1px solid rgba(239, 238, 236, 0.547);
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 220px;
+    height: 260px;
+    animation: vibrate 0.3s linear infinite;
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+   box-shadow: 6px 6px 6px black;
+}
+
+.io{
+    
+        background: #ffffff;
+    padding: 20px;
+    border: 1px solid rgba(253, 252, 251, 0.658);
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 220px;
+    height: 260px;
+    animation: vibrate 0.3s linear infinite;
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+     box-shadow: 6px 6px 6px black;
+}
+
+.box{
+       background: #ffffff;
+       padding: 20px;
+       margin-right: 300px;
+       margin-left: 300px;
+       box-shadow: 6px 6px 6px black;
+}
+
+.pp{
+     text-align: center;
+    background-color: rgb(237, 228, 228);
+    text-decoration: none;
+    font-size: 18px;
+    text-align: center;
+    padding: 40px;
+    margin-top: 40px;
+ box-shadow: 7px 7px 7px black; 
+}
+
+.yp{
+text-align: center;
+    background-color: rgb(237, 228, 228);
+    text-decoration: none;
+    font-size: 18px;
+    text-align: center;
+    padding: 40px;
+    margin-top: 40px;
+    box-shadow: 7px 7px 7px black;
+}
